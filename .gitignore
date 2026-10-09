@@ -1,0 +1,6 @@
+# Release payloads belong in GitHub Release assets, never in Git history.
+*.tar
+*.tar.gz
+*.tar.zst
+*.zip
+SHA256SUMS
